@@ -1,4 +1,6 @@
-## lambda
+# java-snippet
+
+## Lambda
 
 ### 函数编程演化历程
 
@@ -40,7 +42,7 @@
 - 指向任意类型实例方法的方法引用 `String::length`
 - 指向现有对象实例方法的方法引用 `stringBuilder::append`
 
-## stream
+## Stream
 
 ### 流（数据源->中间操作->终端操作）操作分类
 
@@ -155,11 +157,11 @@
 
 ### 线程池的核心参数
 
-![](doc/6.1.png)
+![](./doc/6.1.png)
 
 ### 线程池的处理流程
 
-![](doc/6.2.png)
+![](./doc/6.2.png)
 
 ### 线程池可选择的阻塞队列
 
@@ -176,21 +178,21 @@
 
 ### 线程池的执行示意图
 
-![](doc/6.3.png)
+![](./doc/6.3.png)
 
 ### 常用线程池
 
-![](doc/6.4.png)
+![](./doc/6.4.png)
 
-![](doc/6.5.png)
+![](./doc/6.5.png)
 
-![](doc/6.6.png)
+![](./doc/6.6.png)
 
 ### 线程池的状态
 
-![](doc/6.7.png)
+![](./doc/6.7.png)
 
-## lombok
+## Lombok
 
 ### Lombok 实现原理
 
@@ -204,11 +206,11 @@
 - Annotation Processing Tool（注解处理器）
 - Pluggable Annotation Processing API（JSR269 插入式注解处理器）
 
-![](doc/7.1.png)
+![](./doc/7.1.png)
 
 ### Lombok 常用注解
 
-![](doc/7.2.png)
+![](./doc/7.2.png)
 
 ### Lombok 的优点
 
@@ -226,9 +228,9 @@
 
 ### 分层验证模型与 JavaBean 验证模型
 
-![](doc/8.1.png)
+![](./doc/8.1.png)
 
-![](doc/8.2.png)
+![](./doc/8.2.png)
 
 ### 常用约束注解
 
